@@ -1,0 +1,8 @@
+C:\Users\Leandro Fiorenzo\Desktop\sorting\SortingAlgorithms.Library\bin\Debug\netcoreapp3.0\SortingAlgorithms.Library.deps.json
+C:\Users\Leandro Fiorenzo\Desktop\sorting\SortingAlgorithms.Library\bin\Debug\netcoreapp3.0\SortingAlgorithms.Library.dll
+C:\Users\Leandro Fiorenzo\Desktop\sorting\SortingAlgorithms.Library\bin\Debug\netcoreapp3.0\SortingAlgorithms.Library.pdb
+C:\Users\Leandro Fiorenzo\Desktop\sorting\SortingAlgorithms.Library\obj\Debug\netcoreapp3.0\SortingAlgorithms.Library.csprojAssemblyReference.cache
+C:\Users\Leandro Fiorenzo\Desktop\sorting\SortingAlgorithms.Library\obj\Debug\netcoreapp3.0\SortingAlgorithms.Library.AssemblyInfoInputs.cache
+C:\Users\Leandro Fiorenzo\Desktop\sorting\SortingAlgorithms.Library\obj\Debug\netcoreapp3.0\SortingAlgorithms.Library.AssemblyInfo.cs
+C:\Users\Leandro Fiorenzo\Desktop\sorting\SortingAlgorithms.Library\obj\Debug\netcoreapp3.0\SortingAlgorithms.Library.dll
+C:\Users\Leandro Fiorenzo\Desktop\sorting\SortingAlgorithms.Library\obj\Debug\netcoreapp3.0\SortingAlgorithms.Library.pdb
